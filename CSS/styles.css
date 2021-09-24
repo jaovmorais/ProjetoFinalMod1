@@ -1,0 +1,155 @@
+body {
+	text-align: center;
+}
+section {
+	display: inline-block;
+	width: 100%;
+}
+
+h1 {
+	line-height: 4rem;
+}
+
+#title {
+	background-color: #f9485d;
+}
+
+#tindog {
+	font-family: "Numans", sans-serif;
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+.merriweather {
+	font-family: "Merriweather", serif;
+}
+
+.montserrat {
+	font-family: "Montserrat", sans-serif;
+}
+
+.navegacao {
+	color: #e8d6dc !important;
+	font-size: 0.975rem;
+}
+
+.middle {
+	overflow: hidden;
+	height: 27.5rem;
+}
+
+.titleAndDownload {
+	width: 5rem;
+}
+
+.btnsDownload {
+	width: 17rem;
+	font-weight: 500;
+}
+
+.dogCell {
+	transform: rotate(20deg);
+	width: 16rem;
+}
+
+#features {
+	padding: 7rem 10rem;
+}
+
+#features i {
+	color: #e9967a;
+	font-size: 3rem;
+}
+
+#features h3 {
+	font-family: "Merriweather", serif;
+	font-size: 1.1rem;
+	font-weight: bold;
+}
+
+#features p {
+	font-family: "Montserrat", sans-serif;
+	font-size: 0.8rem;
+	font-weight: 500;
+	color: gray;
+}
+
+.feature {
+	padding: 0 4rem;
+}
+
+#testimonials {
+	background-color: #e9967a;
+	padding: 5rem 4rem;
+	color: white;
+}
+
+#testimonials h2 {
+	font-family: "Merriweather", serif;
+	font-weight: bold;
+	font-size: 2.2rem;
+	padding: 0 15rem 1.5rem;
+}
+
+#testimonials img {
+	border-radius: 100%;
+	width: 5rem;
+	margin-right: 1rem;
+}
+
+#testimonials em {
+	font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 0.85rem;
+}
+
+#press {
+	background-color: #e9967a;
+	padding: 5rem 10rem;
+}
+
+#press img {
+	width: 15rem;
+	padding: 0 2rem;
+}
+
+#pricing {
+	padding: 5rem 1rem;
+}
+
+#pricing h2 {
+	font-family: "Merriweather", serif;
+	font-weight: bold;
+	font-size: 2.2rem;
+}
+
+#pricing p {
+	font-family: "Montserrat", sans-serif;
+	font-size: 0.8rem;
+	font-weight: 500;
+	color: gray;
+}
+
+.pricingBtn {
+	padding: 0.3rem 38%;
+}
+
+#cta {
+	background-color: #f9485d;
+	padding: 5rem 15rem;
+}
+
+#cta h3 {
+	font-size: 3rem;
+}
+
+#footer {
+	padding: 5rem 15rem;
+}
+
+#footer p {
+	font-family: "Montserrat", sans-serif;
+	font-size: 0.8rem;
+	font-weight: 500;
+	color: gray;
+}
